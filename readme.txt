@@ -19,3 +19,23 @@
 - Creating controller with CLI
     - In the root directory in the terminal
         - nest generate controller messages/messages --flat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****** NOTES ******
+- ValidationPipe
+    - Create a DTO class
+    - Incoming request (JSON) is converted to the DTO class's object by class transformer
+    - Then class validator validates the data.
+
