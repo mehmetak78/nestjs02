@@ -5,6 +5,17 @@
 - Create a new project
     - Open a new terminal in a desired directory.
     - nest new nestjs02
+    - Or: - Install NestJS plugin for Webstorm
+
+- npm install class-validator class-transformer
 
 - Execute Project
     - npm run start:dev
+
+- Creating module with CLI
+    - In the root directory in the terminal
+        - nest generate module messages
+
+- Creating controller with CLI
+    - In the root directory in the terminal
+        - nest generate controller messages/messages --flat
