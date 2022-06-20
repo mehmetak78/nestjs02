@@ -20,7 +20,9 @@
     - In the root directory in the terminal
         - nest generate controller messages/messages --flat
 
-
+- Create service with CLI
+    - - In the root directory in the terminal
+        - nest g service power
 
 
 
